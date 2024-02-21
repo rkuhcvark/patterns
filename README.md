@@ -1,1 +1,1 @@
-# patterns
+# TS patterns implementation
